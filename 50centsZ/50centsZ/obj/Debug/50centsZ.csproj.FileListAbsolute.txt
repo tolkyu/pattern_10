@@ -1,0 +1,12 @@
+C:\Users\prwdi\source\repos\50centsZ\50centsZ\bin\Debug\50centsZ.exe.config
+C:\Users\prwdi\source\repos\50centsZ\50centsZ\bin\Debug\50centsZ.exe
+C:\Users\prwdi\source\repos\50centsZ\50centsZ\bin\Debug\50centsZ.pdb
+C:\Users\prwdi\source\repos\50centsZ\50centsZ\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\prwdi\source\repos\50centsZ\50centsZ\obj\Debug\50centsZ.csprojAssemblyReference.cache
+C:\Users\prwdi\source\repos\50centsZ\50centsZ\obj\Debug\_50centsZ.Properties.Resources.resources
+C:\Users\prwdi\source\repos\50centsZ\50centsZ\obj\Debug\50centsZ.csproj.GenerateResource.cache
+C:\Users\prwdi\source\repos\50centsZ\50centsZ\obj\Debug\50centsZ.csproj.CoreCompileInputs.cache
+C:\Users\prwdi\source\repos\50centsZ\50centsZ\obj\Debug\50centsZ.csproj.CopyComplete
+C:\Users\prwdi\source\repos\50centsZ\50centsZ\obj\Debug\50centsZ.exe
+C:\Users\prwdi\source\repos\50centsZ\50centsZ\obj\Debug\50centsZ.pdb
+C:\Users\prwdi\source\repos\50centsZ\50centsZ\obj\Debug\_50centsZ.Form1.resources
